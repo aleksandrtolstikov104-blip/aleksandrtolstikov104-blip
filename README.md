@@ -65,6 +65,9 @@ QA Engineer с практическим опытом тестирования в
 - Шаги воспроизведения, expected / actual result  
 👉 Репозиторий: https://github.com/aleksandrtolstikov104-blip/qa-bug-reports
 
+### 🔹 Тест-кейсы
+ 👉 Репозиторий: (https://github.com/aleksandrtolstikov104-blip/qa-test-cases)
+
 ---
 
 ## 🧪 Практика
