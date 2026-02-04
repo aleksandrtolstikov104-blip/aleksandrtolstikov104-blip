@@ -17,56 +17,68 @@ QA Engineer с практическим опытом тестирования в
 
 ## 🛠 Навыки
 
-### Тестирование
-- Функциональное тестирование
-- Тестирование веб-приложений
-- Тестирование мобильных приложений (Android)
+### 🧪 Testing
+
+- Web & Mobile testing (Android)
+- Functional testing
 - API testing
-- Тестирование по методологиям black box и gray box
+- Black-box / Gray-box testing
 
-### Техники тест-дизайна
-- Эквивалентное разбиение
-- Граничные значения
-- Попарное тестирование
-- Таблицы принятия решений
-- Пользовательский сценарий
-- Предугадывание ошибок
+### 📐 Test Design
+- Equivalence Partitioning
+- Boundary Value Analysis
+- Pairwise testing
+- Decision Tables
+- User Scenarios
+- Error Guessing
 
-### Тестовая документация
-- Чек-листы
-- Тест-кейсы
-- Баг-репорты
+### 📄 Test Documentation
 
-### Инструменты
-- Git / GitHub
-- Chrome DevTools
-- Postman
-- Charles
-- MySQL
-- Android Studio
-- Visual Studio Code
-- Qase.io
-- YouTrack, Jira
+- Checklists
+- Test Cases
+- Bug Reports
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
+</p>
 
 ---
 
-## 📄 Тестовые артефакты
+## 📂 QA Artifacts
 
-В репозиториях представлены практические артефакты тестирования веб- и мобильных приложений:
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://github.com/aleksandrtolstikov104-blip/qa-checklists">
+    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828640.png" width="60"><br>
+    <b>Checklists</b>
+  </a>
+</td>
 
-### 🔹 Чек-листы
-- Веб- и мобильное тестирование
-- Функциональные проверки и пользовательские сценарии  
-👉 Репозиторий: https://github.com/aleksandrtolstikov104-blip/qa-checklists
+<td align="center" width="33%">
+  <a href="https://github.com/aleksandrtolstikov104-blip/qa-bug-reports">
+    <img src="https://cdn-icons-png.flaticon.com/512/2991/2991108.png" width="60"><br>
+    <b>Bug Reports</b>
+  </a>
+</td>
 
-### 🔹 Баг-репорты
-- Баг-репорты для веб- и мобильных приложений
-- Оформление в формате Excel (структура Jira / YouTrack)
-- Шаги воспроизведения, expected / actual result  
-👉 Репозиторий: https://github.com/aleksandrtolstikov104-blip/qa-bug-reports
-
-### 🔹 Тест-кейсы
- 👉 Репозиторий: (https://github.com/aleksandrtolstikov104-blip/qa-test-cases)
+<td align="center" width="33%">
+  <a href="https://github.com/aleksandrtolstikov104-blip/qa-test-cases">
+    <img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="60"><br>
+    <b>Test Cases</b>
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
