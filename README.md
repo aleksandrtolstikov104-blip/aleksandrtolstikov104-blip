@@ -77,6 +77,13 @@ QA Engineer с практическим опытом тестирования в
     <b>Test Cases</b>
   </a>
 </td>
+
+<td align="center" width="33%">
+  <a href="https://github.com/aleksandrtolstikov104-blip/qa-api-postman">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60"><br>
+    <b>API (Postman)</b>
+  </a>
+</td>
 </tr>
 </table>
 
