@@ -84,6 +84,14 @@ QA Engineer с практическим опытом тестирования в
     <b>API (Postman)</b>
   </a>
 </td>
+
+<td align="center" width="33%">
+  <a href="https://github.com/aleksandrtolstikov104-blip/qa-traffic-interception">
+    <img src="https://cdn-icons-png.flaticon.com/512/2942/2942841.png" width="60"><br>
+    <b>Traffic Interception</b>
+  </a>
+</td>
+
 </tr>
 </table>
 
